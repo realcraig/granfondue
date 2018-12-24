@@ -1,19 +1,19 @@
 module.exports = {
-  siteTitle: "HeroBlog - a GatsbyJS starter", // <title>
-  shortSiteTitle: "HeroBlog - GatsbyJS starter", // <title> ending for posts and pages
-  siteDescription: "HeroBlog is a GatsbyJS starter.",
-  siteUrl: "https://gatsby-starter-hero-blog.greglobinski.com",
+  siteTitle: "Gran Fondue - Cycling and Cheese", // <title>
+  shortSiteTitle: "Gran Fondue", // <title> ending for posts and pages
+  siteDescription: "Gran Fondue - Cycling and Eating Melted Cheese.",
+  siteUrl: "https://www.granfondue.com",
   // pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "en",
 
   /* author */
-  authorName: "greg lobinski",
-  authorTwitterAccount: "greglobinski",
+  authorName: "craig robinson",
+  authorTwitterAccount: "realcraig",
 
   /* info */
   headerTitle: "Gran Fondue",
-  headerSubTitle: "Riding Bikes and Eating Melted Cheese",
+  headerSubTitle: "Cycling and Eating Melted Cheese",
 
   /* manifest.json */
   manifestName: "Gran Fondue",
