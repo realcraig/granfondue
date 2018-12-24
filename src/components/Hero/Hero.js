@@ -12,7 +12,7 @@ const Hero = props => {
         <h1>
           <strong>Gran Fondue</strong>
         </h1>
-        <h1>March 2, 2018</h1>
+        <h1>March 2, 2019</h1>
         <button onClick={scrollToContent} aria-label="scroll">
           <FaArrowDown />
         </button>
