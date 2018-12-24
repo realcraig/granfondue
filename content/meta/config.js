@@ -3,7 +3,7 @@ module.exports = {
   shortSiteTitle: "Gran Fondue", // <title> ending for posts and pages
   siteDescription: "Gran Fondue - Bikes and Cheese.",
   siteUrl: "https://www.granfondue.com",
-  // pathPrefix: "",
+  pathPrefix: "/",
   siteImage: "preview.jpg",
   siteLanguage: "en",
 
