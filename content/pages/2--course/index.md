@@ -1,0 +1,4 @@
+---
+title: Course
+menuTitle: Course
+---
