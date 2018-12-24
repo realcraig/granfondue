@@ -1,7 +1,7 @@
 module.exports = {
-  siteTitle: "Gran Fondue - Cycling and Cheese", // <title>
+  siteTitle: "Gran Fondue - Bikes and Cheese", // <title>
   shortSiteTitle: "Gran Fondue", // <title> ending for posts and pages
-  siteDescription: "Gran Fondue - Cycling and Eating Melted Cheese.",
+  siteDescription: "Gran Fondue - Bikes and Cheese.",
   siteUrl: "https://www.granfondue.com",
   // pathPrefix: "",
   siteImage: "preview.jpg",
@@ -13,7 +13,7 @@ module.exports = {
 
   /* info */
   headerTitle: "Gran Fondue",
-  headerSubTitle: "Cycling and Eating Melted Cheese",
+  headerSubTitle: "Bikes and Cheese",
 
   /* manifest.json */
   manifestName: "Gran Fondue",
