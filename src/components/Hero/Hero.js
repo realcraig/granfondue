@@ -10,8 +10,9 @@ const Hero = props => {
     <React.Fragment>
       <section className="hero">
         <h1>
-          This is a demo site of&nbsp;the <strong>heroBlog</strong> GatsbyJS starter
+          <strong>Gran Fondue</strong>
         </h1>
+        <h2>March 2, 2018</h2>
         <button onClick={scrollToContent} aria-label="scroll">
           <FaArrowDown />
         </button>

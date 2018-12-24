@@ -23,5 +23,4 @@
 <url> <loc>https://gatsby-starter-hero-blog.greglobinski.com/category/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://gatsby-starter-hero-blog.greglobinski.com/contact/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://gatsby-starter-hero-blog.greglobinski.com/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://gatsby-starter-hero-blog.greglobinski.com/search/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
